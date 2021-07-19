@@ -5,25 +5,38 @@ body {
   align-items: center;
   min-height: 100vh;
   text-align: center;
+  background-color: rgb(43, 43, 41);
+}
+
+.wrapper {
+  border: 1px solid rgb(198, 206, 190);
+  width: 19rem;
+  height: auto;
+  padding: .5rem;
 }
 
 h1 {
   margin: 0;
   margin-bottom: .5rem;
+  color: rgb(198, 206, 190);
 }
 
 .input {
-  border: 1px solid #333;
-  border-radius: .3em;
+  border: 1px solid rgb(198, 206, 190);
+  border-radius: .5em;
   padding: .25rem;
   width: 7em;
 }
 
 select {
   margin-left: .5rem;
+  border-radius: .5em;
+  border: 1px solid rgb(198, 206, 190)3;
+  height: 1.8em;
 }
 
 .equals {
   font-weight: bold;
   font-size: 2rem;
+  color: rgb(198, 206, 190);
 }
