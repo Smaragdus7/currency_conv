@@ -2,4 +2,4 @@
 
 Boilerplate: Create React App
 
-API: https://currencylayer.com/
+API: http://api.exchangeratesapi.io/v1/latest
