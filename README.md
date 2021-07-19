@@ -1,5 +1,5 @@
 # Currency converter
 
-Boilerplate: Creat React App
+Boilerplate: Create React App
 
 API: https://currencylayer.com/
